@@ -8,14 +8,17 @@ The goal of this challenge is to build a model that predicts conversion rate and
 model, come up with ideas to improve re]enue.
 This challenge is significantly easier than all others in this collection. There are no dates, no
 tables to join, no feature engineering required, and the problem is really straightforward.
-Therefore, it is a great starting point to get familiar with data science takehome challenges.
+Therefore, it is a great starting point to get familiar with data science take-home challenges.
 You should not move to the other challenges until you fully understand this one.
+
 # Challenge Description
 We have data about users who hit our site: whether they converted or not as well as some of
 their characteristics such as their country, the marketing channel, their age, whether they are
 repeat users and the number of pages visited during that session (as a proxy for site
 activity/time spent on site).
+
 # Your project is to:
 Predict conversion rate
 Come up with recommendations for the product team and the marketing team to
 improve conversion rate
+
